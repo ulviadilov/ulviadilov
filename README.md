@@ -1,6 +1,6 @@
 <h1 align="center">Ulvi Adilov</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.insider.com/5aaff377b2617f46078b46f4?width=700">
+<h3 align="center">Backend Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/b2/1f/4ab21fb98ad575f138fa7080294d8465.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulviadilov&label=Profile%20views&color=0e75b6&style=flat" alt="ulviadilov" /> </p>
 
