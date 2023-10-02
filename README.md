@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ulvi Adilov</h1>
+<h1 align="center">Ulvi Adilov</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.insider.com/5aaff377b2617f46078b46f4?width=700">
 
